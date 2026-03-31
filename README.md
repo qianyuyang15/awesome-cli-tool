@@ -12,7 +12,7 @@ A simple and lightweight CLI tool to automate repetitive tasks.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/awesome-cli-tool.git
+git clone https://github.com/qianyuyang6/awesome-cli-tool.git
 cd awesome-cli-tool
 pip install -r requirements.txt
 ```
